@@ -1,4 +1,4 @@
-# Budget Tracker Starter Code
+# Budget Tracker
 
 ## Description
 A Budget tracker application that allows users to access offline functionalities. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online.
