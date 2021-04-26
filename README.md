@@ -3,7 +3,7 @@
 ## Description
 A Budget tracker application that allows users to access offline functionalities. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online.
 
-  ## Table of Contents (Optional)
+  ## Table of Contents
   If your README is very long, add a table of contents to make it easy for users to find what they need.
   * [Description](#description)
   * [Installation](#installation)
